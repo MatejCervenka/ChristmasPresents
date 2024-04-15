@@ -1,0 +1,6 @@
+John;0.8
+Thomas;0.7
+Jacob;0.2
+George;0.4
+Martin;0.5
+Joe;0.1

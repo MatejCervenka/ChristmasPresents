@@ -1,0 +1,6 @@
+John--Drawer--0.08
+Thomas--Toilet--0.17
+Jacob--Oven--0.06
+George--Fridge--0.20
+Martin--Nightstand--0.35
+Joe--Wardrobe--0.09

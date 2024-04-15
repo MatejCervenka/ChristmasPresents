@@ -1,0 +1,6 @@
+Wardrobe;0.9
+Fridge;0.5
+Nightstand;0.7
+Toilet;0.25
+Drawer;0.1
+Oven;0.3
